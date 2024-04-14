@@ -6,4 +6,4 @@
     localhost/livros (GET) Consultar 
     localhots/livros ()    
 '''
-# 4. Quais recursos
+# 4. Quais recursos .
